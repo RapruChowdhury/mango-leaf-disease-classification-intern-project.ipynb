@@ -22,9 +22,9 @@ The dataset consists of images of mango leaves categorized into folders named af
 ### Dataset Structure
 
 dataset/
-├── disease_1/
-├── disease_2/
-├── healthy/
+- disease_1/
+  -disease_2/
+- healthy/
 └── ...
 You can upload the dataset directly to Colab or mount your Google Drive containing the dataset folder for seamless integration.
 
